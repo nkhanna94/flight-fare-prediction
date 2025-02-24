@@ -269,7 +269,7 @@ joblib.dump(preprocessor, "preprocessor.joblib")
 
 # web application
 st.set_page_config(
-	page_title="Flights Prices Prediction",
+	page_title="Flights Fare Prediction",
 	page_icon="✈️",
 	layout="wide"
 )
