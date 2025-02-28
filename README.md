@@ -8,6 +8,6 @@ This project predicts flight fares using **AWS SageMaker**, **Streamlit**, and *
 ✅ **Interactive UI** – Built with Streamlit for easy access.  
 
 ### Try It Now:  
-🔗 [Live Demo](https://sagemaker-flight-prices-prediction-ec3yqnwdzh8tm9ts5jvwkm.streamlit.app/)  
+🔗 [Live Demo](https://flights-fare-prediction-ec3yqnwdzh8tm9ts5jvwkm.streamlit.app/)  
 
 For questions or feedback, feel free to reach out. 🚀
